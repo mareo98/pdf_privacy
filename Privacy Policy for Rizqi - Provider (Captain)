@@ -1,0 +1,57 @@
+Privacy Policy for Rizqi - Provider (Captain)
+Last Updated: March 29, 2026
+
+This Privacy Policy describes how Rizqi - Provider ("we," "our," or "the App") collects, uses, and shares information about service providers (engineers, technicians, craftsmen, and equipment drivers) operating within the Iraqi market. By using the App, you agree to the collection and use of information in accordance with this policy.
+
+1. Information Collection and Use
+To provide a reliable marketplace connecting you with customers, we collect the following:
+
+Account Information: Full name, email, phone number (verified via Google or WhatsApp), and profile picture.
+
+Professional Profile: Specialty, sub-category, years of experience, and a professional biography.
+
+Portfolio Media: Images of your previous work uploaded to demonstrate your skills to potential customers.
+
+Financial Data: Records of your virtual wallet balance, recharge history (via ZainCash or Top-up cards), and service fee deductions.
+
+Device Information: Device model, OS version, and unique identifiers for security and performance monitoring.
+
+2. Location Data (Foreground & Background)
+The core functionality of Rizqi relies on geographic positioning:
+
+Purpose: We collect your precise location data to display your professional "Marker" on the customer’s map and to calculate the distance between you and the service seeker.
+
+Visibility Logic: Your location is only visible to customers if your status is set to "Available" and you have a sufficient wallet balance to cover the lead fee (2,000 - 5,000 IQD).
+
+Background Location: The App may access your location in the background to ensure your position is updated on the map while you are on the move, allowing customers to find the nearest available provider in real-time.
+
+3. Wallet and Service Fees
+We maintain a digital wallet for each provider to manage platform fees.
+
+Transaction data is stored securely in Firebase Firestore to ensure financial transparency and accurate reporting of your earnings and platform usage.
+
+4. Data Sharing and Disclosure
+Public Profile: Your professional details (name, photo, specialty, rating, and portfolio) are visible to all users of the Rizqi Customer App.
+
+Contact Privacy: Your phone number is not displayed publicly; it is only shared with a customer once a service request is confirmed or through the secure in-app chat system.
+
+Service Providers: We use Firebase (Google) for data storage and authentication. These third parties have their own privacy policies regarding data handling.
+
+5. Data Security
+We implement industry-standard security measures:
+
+All data is encrypted in transit via HTTPS/TLS.
+
+Access to your sensitive data (such as wallet balance and identity documents) is restricted through Firebase Security Rules.
+
+Images are stored in Firebase Storage with specific access permissions.
+
+6. User Rights and Data Deletion
+Access & Update: You can update your professional profile and portfolio at any time via the "My Account" section.
+
+Account Deletion: You have the right to delete your account and all associated personal/professional data. Upon request, all records, including location history and portfolio images, will be permanently removed from our servers.
+
+7. Contact Us
+For any questions regarding this Privacy Policy or your data, please contact our support team:
+
+Email: msh1998iq@gmail.com
